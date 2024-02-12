@@ -1,0 +1,41 @@
+{
+  "user":[],
+  "wonders": [
+    {
+      "id": "1",
+      "name": "Channel Tunnel",
+      "location": "France",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg/1280px-TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg"
+    },
+    {
+      "id": "2",
+      "name": "CN Tower",
+      "location": "Canada",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Toronto_-_ON_-_Toronto_Harbourfront7.jpg/800px-Toronto_-_ON_-_Toronto_Harbourfront7.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Empire State Building",
+      "location": "United States",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Empire_State_Building_%28aerial_view%29.jpg/800px-Empire_State_Building_%28aerial_view%29.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Golden Gate Bridge",
+      "location": "California",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/GoldenGateBridge-001.jpg/1280px-GoldenGateBridge-001.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Itaipú Dam",
+      "location": "Paraguay",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Itaipu_geral.jpg/1280px-Itaipu_geral.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Great Wall of China",
+      "location": "Chaina",
+      "imageUrl": "https://cdn.britannica.com/82/94382-050-20CF23DB/Great-Wall-of-China-Beijing.jpg"
+    }
+  ]
+}
